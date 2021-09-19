@@ -8,11 +8,11 @@ The dataset contains high-quality multi-person scans and real world multi-view d
 
 MultiHuman dataset:
 
-![teaser](./assets/MultiHuman.jpg)
+![multihuman](./assets/MultiHuman.jpg)
 
 MultiHuman Real World dataset:
 
-![teaser](./assets/MultiHuman_realworld.jpg)
+![multihuman_realworld](./assets/MultiHuman_realworld.jpg)
 
 ### Dataset Structure
 **MultiHuman dataset** consists of 150 human scans captured by a dense DLSR rig, which is used to evaluate multi-person reconstruction algorithms. We divide the dataset into different categories by the level of occlusions and number of persons including:
