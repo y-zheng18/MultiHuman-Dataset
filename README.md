@@ -4,13 +4,15 @@ Yang Zheng*, Ruizhi Shao*, Yuxiang Zhang, Tao Yu, Zerong Zheng, Qionghai Dai, Ye
 
 [[Project Page]](http://www.liuyebin.com/dmc/dmc.html)
 
-The dataset contains high-quality multi-person scans and real world multi-view data.
+### News
+* **[2021/9/26]** We release **451 high-quality 3D human scans** with raw obj mesh files (without normalization) and texture maps. Each scan contains 1-3 persons. The dataset can be used to train and evaluate multi-person reconstruction algorithms.
+* **[2021/9/18]** We release **MultiHuman dataset** with 150 scans for evaluation purpose and **MultiHuman Real-Cap dataset** with 4 real world multi-view sequences with estimated SMPLX models.
 
 MultiHuman dataset:
 
 ![multihuman](./assets/MultiHuman.jpg)
 
-MultiHuman Real World dataset:
+MultiHuman Real-Cap dataset:
 
 ![multihuman_realworld](./assets/MultiHuman_realworld.jpg)
 
@@ -24,7 +26,9 @@ MultiHuman Real World dataset:
 
 For each scene, we provide the normalized 3D model (obj_all/\*\*\*), the cropped single person 3D models (obj/\*\*\*), and the estimated SMPLX models (smplx/\*\*\*). The SMPLX models are fitted from 6 views, which can be used as baselines or ground truth.
 
-**MultiHuman Real World dataset** contains real world multi-view sequences with estimated SMPLX models. We provide the raw images, calibrations, cropped images (human-centered) with the corresponding camera intrinsic and extrinsic parameters, and SMPLX models.
+Moreover, we release the 451 raw scans providing original meshes (without normalization) and photorealistic texture maps. Note that the data include the raw scans of the above-mentioned 150 scans. These data provide enough capacity to train and evaluate multi-person reconstruction algorithms.
+
+**MultiHuman Real-Cap dataset** contains real world multi-view sequences with estimated SMPLX models. We provide the raw images, calibrations, cropped images (human-centered) with the corresponding camera intrinsic and extrinsic parameters, and SMPLX models.
 
 ### Agreement
 1. The MultiHuman dataset (the "Dataset") is available for **non-commercial** research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without Tsinghua University’s prior written permission.
