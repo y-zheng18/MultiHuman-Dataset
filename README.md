@@ -5,7 +5,7 @@ Yang Zheng*, Ruizhi Shao*, Yuxiang Zhang, Tao Yu, Zerong Zheng, Qionghai Dai, Ye
 [[Project Page]](http://www.liuyebin.com/dmc/dmc.html)
 
 ### News
-* **[2021/9/26]** We release **451 high-quality 3D human scans** with raw obj mesh files (without normalization) and texture maps. Each scan contains 1-3 persons. The dataset can be used to train and evaluate multi-person reconstruction algorithms.
+* **[2021/9/26]** We release **453 high-quality 3D human scans** with raw obj mesh files (without normalization) and texture maps. Each scan contains 1-3 persons. The dataset can be used to train and evaluate multi-person reconstruction algorithms.
 * **[2021/9/18]** We release **MultiHuman dataset** with 150 scans for evaluation purpose and **MultiHuman Real-Cap dataset** with 4 real world multi-view sequences with estimated SMPLX models.
 
 MultiHuman dataset:
@@ -26,7 +26,7 @@ MultiHuman Real-Cap dataset:
 
 For each scene, we provide the normalized 3D model (obj_all/\*\*\*), the cropped single person 3D models (obj/\*\*\*), and the estimated SMPLX models (smplx/\*\*\*). The SMPLX models are fitted from 6 views, which can be used as baselines or ground truth.
 
-Moreover, we release the 451 raw scans providing original meshes (without normalization) and photorealistic texture maps. Note that the data include the raw scans of the above-mentioned 150 scans. These data provide enough capacity to train and evaluate multi-person reconstruction algorithms.
+Moreover, we release the 453 raw scans providing original meshes (without normalization) and photorealistic texture maps. Note that the data include the raw scans of the above-mentioned 150 scans. These data provide enough capacity to train and evaluate multi-person reconstruction algorithms.
 
 **MultiHuman Real-Cap dataset** contains real world multi-view sequences with estimated SMPLX models. We provide the raw images, calibrations, cropped images (human-centered) with the corresponding camera intrinsic and extrinsic parameters, and SMPLX models.
 
