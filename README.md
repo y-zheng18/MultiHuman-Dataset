@@ -5,8 +5,9 @@ Yang Zheng*, Ruizhi Shao*, Yuxiang Zhang, Tao Yu, Zerong Zheng, Qionghai Dai, Ye
 [[Project Page]](http://www.liuyebin.com/dmc/dmc.html)
 
 ### News
+* **[2022/2/26]** We release the source code of [DeepMultiCap](https://github.com/DSaurus/DeepMultiCap).
 * **[2021/9/26]** We release **453 high-quality 3D human scans** with raw obj mesh files (without normalization) and texture maps. Each scan contains 1-3 persons. The dataset can be used to train and evaluate multi-person reconstruction algorithms.
-* **[2021/9/18]** We release **MultiHuman dataset** with 150 scans for evaluation purpose and **MultiHuman Real-Cap dataset** with 4 real world multi-view sequences with estimated SMPLX models.
+* **[2021/9/18]** We release **MultiHuman dataset** with 150 scans for evaluation purpose (with SMPL-X) and **MultiHuman Real-Cap dataset** with 4 real world multi-view sequences with estimated SMPL-X.
 
 MultiHuman dataset:
 
@@ -61,3 +62,7 @@ year={2021},
 - Yang Zheng [(y-zheng18@mails.tsinghua.edu.cn)](mailto:y-zheng18@mails.tsinghua.edu.cn)
 - Ruizhi Shao [(shaorz20@mails.tsinghua.edu.cn)](mailto:shaorz20@mails.tsinghua.edu.cn)
 - Yebin Liu [(liuyebin@mail.tsinghua.edu.cn)](mailto:liuyebin@mail.tsinghua.edu.cn)
+
+### Related Datasets
+* [THUman](https://github.com/ZhengZerong/DeepHuman)
+* [THUman2.0](https://github.com/ytrock/THuman2.0-Dataset)
