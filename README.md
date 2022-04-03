@@ -63,6 +63,6 @@ year={2021},
 - Ruizhi Shao [(shaorz20@mails.tsinghua.edu.cn)](mailto:shaorz20@mails.tsinghua.edu.cn)
 - Yebin Liu [(liuyebin@mail.tsinghua.edu.cn)](mailto:liuyebin@mail.tsinghua.edu.cn)
 
-### Related Datasets
-* [THUman](https://github.com/ZhengZerong/DeepHuman)
-* [THUman2.0](https://github.com/ytrock/THuman2.0-Dataset)
+### Related Datasets from THU3DV Lab [[Link]](http://liuyebin.com/)
+* [[THUman]](https://github.com/ZhengZerong/DeepHuman) Containing 6k (200 subjects x 30 poses) scans from a single RGBD sensor, with SMPL annotations.
+* [[THUman2.0]](https://github.com/ytrock/THuman2.0-Dataset) Containing 500 high-quality single human scans captured by a dense DLSR rig, with SMPL annotations.
