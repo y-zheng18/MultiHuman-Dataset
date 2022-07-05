@@ -59,7 +59,7 @@ year={2021},
 ```
 
 ### Contact
-- Yang Zheng [(y-zheng18@mails.tsinghua.edu.cn)](mailto:yzheng18@stanford.edu)
+- Yang Zheng [(yzheng18@stanford.edu)](mailto:yzheng18@stanford.edu)
 - Ruizhi Shao [(shaorz20@mails.tsinghua.edu.cn)](mailto:shaorz20@mails.tsinghua.edu.cn)
 - Yebin Liu [(liuyebin@mail.tsinghua.edu.cn)](mailto:liuyebin@mail.tsinghua.edu.cn)
 
