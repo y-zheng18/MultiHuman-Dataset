@@ -43,7 +43,7 @@ Moreover, we release the 453 raw scans providing original meshes (without normal
 ### Download Instructions 
 The dataset is encrypted to prevent unauthorized access.
 
-Please fill the [request form](./assets/MultiHuman_Aggrement.pdf) and send it to Yebin Liu (liuyebin@mail.tsinghua.edu.cn) and cc Ruizhi Shao (shaorz20@mails.tsinghua.edu.cn), Yang Zheng (y-zheng18@mails.tsinghua.edu.cn) to request the download link. 
+Please fill the [request form](./assets/MultiHuman_Aggrement.pdf) and send it to Yebin Liu (liuyebin@mail.tsinghua.edu.cn) and cc Ruizhi Shao (shaorz20@mails.tsinghua.edu.cn), Yang Zheng (yzheng18@stanford.edu) to request the download link. 
 
 By requesting for the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
