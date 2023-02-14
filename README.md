@@ -66,3 +66,4 @@ year={2021},
 ### Related Datasets from THU3DV Lab [[Link]](http://liuyebin.com/)
 * [[THUman]](https://github.com/ZhengZerong/DeepHuman) Containing 6k (200 subjects x 30 poses) scans from a single RGBD sensor, with SMPL annotations.
 * [[THUman2.0]](https://github.com/ytrock/THuman2.0-Dataset) Containing 500 high-quality single human scans captured by a dense DLSR rig, with SMPL annotations.
+* [[THUman3.0]](https://github.com/fwbx529/THuman3.0-Dataset) Containing 20 combinations of human-garment with 15 to 35 high-quality human scans in each.
